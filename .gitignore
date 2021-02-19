@@ -1,0 +1,20 @@
+
+
+.vscode/
+target/
+
+=======
+# Intellij files
+*.iml
+.idea/
+
+# Eclipse files
+.settings/
+*.project
+*.classpath
+*.factorypath
+
+# Output files
+src/main/resources/output/
+src/main/resources/archive/
+
